@@ -1,5 +1,8 @@
 2024.08.01
 # 13.02-WebPack-2
+Задача - Соберите инфраструктуру проекта на базе Webpack, ESLint, Babel, Jest, Webpack Dev Server.
++ live-server
+
 2. Клонировал себе.
 3. Скопировал из папки "ci-template test 100%", кроме: .git, README.md, coverage, node_modules.
 4. В Git Bash Here:
